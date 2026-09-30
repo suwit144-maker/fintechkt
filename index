@@ -1,1 +1,20 @@
-
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FinTrack Cloud</title>
+    <style>
+        body, html {
+            margin: 0; padding: 0; height: 100%; overflow: hidden;
+        }
+        iframe {
+            width: 100vw; height: 100vh; border: none; display: block;
+        }
+    </style>
+</head>
+<body>
+    <!-- เปลี่ยน URL ตรง src ให้เป็นลิงก์ของคุณ -->
+    <iframe src="https://script.google.com/macros/s/AKfycbxRVtF0NUo51WXp_NXUUZbQAZYRrag9u9L2e70_tkua7Atg-nisbR7LuSMtLkcHszeIDQ/exec"></iframe>
+</body>
+</html>
